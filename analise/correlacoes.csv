@@ -1,0 +1,7 @@
+municipio,base,metrica,coeficiente,n,interpretacao
+Arcoverde/PE,níveis reais R$ 2024,Pearson r,0.9868464744,10,descritivo; tendência temporal comum pode inflar associação; não causal
+Arcoverde/PE,níveis reais R$ 2024,Spearman rho,0.9757575758,10,descritivo; tendência temporal comum pode inflar associação; não causal
+Arcoverde/PE,variações anuais em reais de 2024,Pearson r,0.7497995203,9,amostra curta e serial; não causal
+Araripina/PE,níveis reais R$ 2024,Pearson r,0.9771801166,10,descritivo; tendência temporal comum pode inflar associação; não causal
+Araripina/PE,níveis reais R$ 2024,Spearman rho,0.9878787879,10,descritivo; tendência temporal comum pode inflar associação; não causal
+Araripina/PE,variações anuais em reais de 2024,Pearson r,0.7788849089,9,amostra curta e serial; não causal

@@ -1,0 +1,7 @@
+VALIDAÇÃO XLSX — PASS
+Arquivo: base_atualizada_222036963.xlsx; 410,060 bytes; 8 abas.
+Fórmulas: 1314; comentários de fonte: 9040; links externos: 0; erros de fórmula: 0.
+20 linhas município-ano comparadas campo a campo com a série tratada; diferenças dentro de R$ 0,03.
+256 linhas de funções de primeiro nível comparadas; totais conciliados com DCA I-E.
+Ausências mantidas: população 2023 e PIB municipal 2024.
+Resumo 2024, Eurostat 2025, cores semânticas, comentários de fonte e gráfico verificados.

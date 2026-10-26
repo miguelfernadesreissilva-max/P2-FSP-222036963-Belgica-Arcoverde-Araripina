@@ -1,0 +1,12 @@
+VALIDAÇÃO DA BASE — PASS
+Observações municipais: 20; 10 anos × 2 municípios.
+Dados fiscais essenciais completos: 20/20.
+População disponível: 18/20; 2023 permanece ausente; 2022 usa Censo.
+PIB disponível: 18/20; 2024 permanece ausente.
+IPCA: 12 meses por ano em 2015–2024; sem imputação.
+Despesas totais e componentes intra/extra reconciliados dentro de R$ 0,02.
+Receitas intra/extra reconciliadas em 2019–2024 dentro de R$ 0,02.
+Conta-pai/filha: nenhuma dupla contagem dentro do indicador selecionado.
+Despesas funcionais: 256 linhas; 2017–2024; soma das funções de primeiro nível reconcilia com despesa empenhada exceto intra.
+Eurostat: 2015–2025; 2025 = déficit -5,2% e dívida bruta 108,1% do PIB.
+Deduções não exibidas na fonte permanecem em branco; o saldo derivado é rotulado como baseado nas deduções reportadas.

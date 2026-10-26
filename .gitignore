@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.Rproj.user/
+data/bibliometria/Rlib/
+*.tmp
+*.log
+artigo/main-review/
+artigo/main.verify.json
+artigo/bib_preflight.*
+artigo/preflight.*

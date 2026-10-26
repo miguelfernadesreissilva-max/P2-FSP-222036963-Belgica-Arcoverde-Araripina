@@ -1,0 +1,6 @@
+arquivo,url,linhas_dados,sha256,fonte,obtido_utc
+ibge_pop_estimativas_2015_2024.json,"https://apisidra.ibge.gov.br/values/t/6579/n6/2601201,2601102/v/9324/p/2015-2024",16,2eb056bd843f8999bfa2da545265d1a39175d8f45c9dbf9939765b6ec08d5dad,IBGE/SIDRA,2026-10-26T01:35:56.754481+00:00
+ibge_censo2022_populacao.json,"https://apisidra.ibge.gov.br/values/t/4709/n6/2601201,2601102/v/93/p/2022",2,9c2b67f7ff698e2bb78684cc213f9ffd303f7c812925c224233ef616acefa03c,IBGE/SIDRA,2026-10-26T01:35:56.754481+00:00
+ibge_pib_municipal_2015_2023.json,"https://apisidra.ibge.gov.br/values/t/5938/n6/2601201,2601102/v/37/p/2015-2023",828,c3434567200929a3f6664f61744c9872354ab5bbaea9979a34c8f04f8e736825,IBGE/SIDRA,2026-10-26T01:35:56.754481+00:00
+ibge_ipca_mensal_2015_2024.json,https://apisidra.ibge.gov.br/values/t/1737/n1/1/v/2266/p/201501-202412,120,91f152a15584cd8430da5d59d08b0a10a7ffa2bdb251465204c92b5e7ecd3cb3,IBGE/SIDRA,2026-10-26T01:35:56.754481+00:00
+eurostat_gov_10dd_edpt1_be.json,https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10dd_edpt1?geo=BE,,26204d4ee1ecde99c915585334352dedeccb1eace1c6b8544d8b361155927c7b,Eurostat gov_10dd_edpt1,2026-10-26T01:35:56.754481+00:00

@@ -1,0 +1,557 @@
+municipio,codigo_ibge,ano,indicador,arquivo_fonte,anexo,cod_conta,conta,coluna,valor,rotulo
+Arcoverde/PE,2601201,2015,receita_total_bruta,siconfi_dca_arcoverde_2015.json,DCA-Anexo I-C,TotalReceitas,Total Receitas,Receitas Brutas Realizadas,130267501.81,
+Arcoverde/PE,2601201,2015,deducao_fundeb,siconfi_dca_arcoverde_2015.json,DCA-Anexo I-C,TotalReceitas,Total Receitas,Deduções - FUNDEB,-10228661.03,
+Arcoverde/PE,2601201,2015,despesa_empenhada_total,siconfi_dca_arcoverde_2015.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,125981279.25,
+Arcoverde/PE,2601201,2015,despesa_liquidada_total,siconfi_dca_arcoverde_2015.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,125981279.25,
+Arcoverde/PE,2601201,2015,despesa_paga_total,siconfi_dca_arcoverde_2015.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,120285435.77,
+Arcoverde/PE,2601201,2015,receita_tributaria_propria_bruta,siconfi_dca_arcoverde_2015.json,DCA-Anexo I-C,RO1.1.0.0.00.00.00,1.1.0.0.00.00.00 - Receita Tributária,Receitas Brutas Realizadas,11525465.63,
+Arcoverde/PE,2601201,2015,transferencias_correntes_total_brutas,siconfi_dca_arcoverde_2015.json,DCA-Anexo I-C,RO1.7.0.0.00.00.00,1.7.0.0.00.00.00 - Transferências Correntes,Receitas Brutas Realizadas,95184421.51,
+Arcoverde/PE,2601201,2015,transferencias_capital_total_brutas,siconfi_dca_arcoverde_2015.json,DCA-Anexo I-C,RO2.4.0.0.00.00.00,2.4.0.0.00.00.00 - Transferências de Capital,Receitas Brutas Realizadas,4541687.92,
+Arcoverde/PE,2601201,2015,transferencias_intergov_correntes_proxy,siconfi_dca_arcoverde_2015.json,DCA-Anexo I-C,RO1.7.2.0.00.00.00,1.7.2.0.00.00.00 - Transferências Intergovernamentais,Receitas Brutas Realizadas,91796679.99,
+Arcoverde/PE,2601201,2015,transferencias_intergov_capital_proxy,siconfi_dca_arcoverde_2015.json,DCA-Anexo I-C,RO2.4.2.0.00.00.00,2.4.2.0.00.00.00 - Transferências Intergovernamentais,Receitas Brutas Realizadas,1600291.21,
+Arcoverde/PE,2601201,2016,receita_total_bruta,siconfi_dca_arcoverde_2016.json,DCA-Anexo I-C,TotalReceitas,Total Receitas,Receitas Brutas Realizadas,146212322.94,
+Arcoverde/PE,2601201,2016,deducao_fundeb,siconfi_dca_arcoverde_2016.json,DCA-Anexo I-C,TotalReceitas,Total Receitas,Deduções - FUNDEB,11514533.37,
+Arcoverde/PE,2601201,2016,despesa_empenhada_total,siconfi_dca_arcoverde_2016.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,138878607.13,
+Arcoverde/PE,2601201,2016,despesa_liquidada_total,siconfi_dca_arcoverde_2016.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,138878607.13,
+Arcoverde/PE,2601201,2016,despesa_paga_total,siconfi_dca_arcoverde_2016.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,128454436.44,
+Arcoverde/PE,2601201,2016,receita_tributaria_propria_bruta,siconfi_dca_arcoverde_2016.json,DCA-Anexo I-C,RO1.1.0.0.00.00.00,1.1.0.0.00.00.00 - Receita Tributária,Receitas Brutas Realizadas,12846710.62,
+Arcoverde/PE,2601201,2016,transferencias_correntes_total_brutas,siconfi_dca_arcoverde_2016.json,DCA-Anexo I-C,RO1.7.0.0.00.00.00,1.7.0.0.00.00.00 - Transferências Correntes,Receitas Brutas Realizadas,106799138.44,
+Arcoverde/PE,2601201,2016,transferencias_capital_total_brutas,siconfi_dca_arcoverde_2016.json,DCA-Anexo I-C,RO2.4.0.0.00.00.00,2.4.0.0.00.00.00 - Transferências de Capital,Receitas Brutas Realizadas,7869625.53,
+Arcoverde/PE,2601201,2016,transferencias_intergov_correntes_proxy,siconfi_dca_arcoverde_2016.json,DCA-Anexo I-C,RO1.7.2.0.00.00.00,1.7.2.0.00.00.00 - Transferências Intergovernamentais,Receitas Brutas Realizadas,104826195.25,
+Arcoverde/PE,2601201,2016,transferencias_intergov_capital_proxy,siconfi_dca_arcoverde_2016.json,DCA-Anexo I-C,RO2.4.2.0.00.00.00,2.4.2.0.00.00.00 - Transferências Intergovernamentais,Receitas Brutas Realizadas,4328097.71,
+Arcoverde/PE,2601201,2017,receita_total_bruta,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-C,TotalReceitas,Total Receitas,Receitas Brutas Realizadas,147298358.01,Padrão
+Arcoverde/PE,2601201,2017,deducao_fundeb,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-C,TotalReceitas,Total Receitas,Deduções - FUNDEB,11283258.83,Padrão
+Arcoverde/PE,2601201,2017,despesa_empenhada_total,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,140070545.37,Padrão
+Arcoverde/PE,2601201,2017,despesa_liquidada_total,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,140070545.37,Padrão
+Arcoverde/PE,2601201,2017,despesa_paga_total,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,128661278.75,Padrão
+Arcoverde/PE,2601201,2017,despesa_empenhada_exceto_intra,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Empenhadas,133506341.73,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2017,despesa_liquidada_exceto_intra,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Liquidadas,133506341.73,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2017,despesa_paga_exceto_intra,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Pagas,122709122.58,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2017,receita_tributaria_propria_bruta,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-C,RO1.1.0.0.00.00.00,1.1.0.0.00.00.00 - Receita Tributária,Receitas Brutas Realizadas,11763761.23,Padrão
+Arcoverde/PE,2601201,2017,transferencias_correntes_total_brutas,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-C,RO1.7.0.0.00.00.00,1.7.0.0.00.00.00 - Transferências Correntes,Receitas Brutas Realizadas,106324721.26,Padrão
+Arcoverde/PE,2601201,2017,transferencias_capital_total_brutas,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-C,RO2.4.0.0.00.00.00,2.4.0.0.00.00.00 - Transferências de Capital,Receitas Brutas Realizadas,5468408.68,Padrão
+Arcoverde/PE,2601201,2017,transferencias_intergov_correntes_proxy,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-C,RO1.7.2.0.00.00.00,1.7.2.0.00.00.00 - Transferências Intergovernamentais,Receitas Brutas Realizadas,104757390.76,Padrão
+Arcoverde/PE,2601201,2017,transferencias_intergov_capital_proxy,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-C,RO2.4.2.0.00.00.00,2.4.2.0.00.00.00 - Transferências Intergovernamentais,Receitas Brutas Realizadas,1764037.24,Padrão
+Arcoverde/PE,2601201,2017,despesa_funcao_01,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-E,TotalDespesas,01 - Legislativa,Despesas Empenhadas,5342557.29,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2017,despesa_funcao_04,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-E,TotalDespesas,04 - Administração,Despesas Empenhadas,26594984.4,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2017,despesa_funcao_08,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-E,TotalDespesas,08 - Assistência Social,Despesas Empenhadas,4219845.46,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2017,despesa_funcao_09,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-E,TotalDespesas,09 - Previdência Social,Despesas Empenhadas,14754363.99,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2017,despesa_funcao_10,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-E,TotalDespesas,10 - Saúde,Despesas Empenhadas,30659766.53,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2017,despesa_funcao_11,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-E,TotalDespesas,11 - Trabalho,Despesas Empenhadas,1022,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2017,despesa_funcao_12,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-E,TotalDespesas,12 - Educação,Despesas Empenhadas,37850463.89,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2017,despesa_funcao_13,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-E,TotalDespesas,13 - Cultura,Despesas Empenhadas,188353.36,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2017,despesa_funcao_15,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-E,TotalDespesas,15 - Urbanismo,Despesas Empenhadas,7540464.69,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2017,despesa_funcao_17,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-E,TotalDespesas,17 - Saneamento,Despesas Empenhadas,44598.04,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2017,despesa_funcao_18,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-E,TotalDespesas,18 - Gestão Ambiental,Despesas Empenhadas,1044012.09,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2017,despesa_funcao_20,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-E,TotalDespesas,20 - Agricultura,Despesas Empenhadas,82563,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2017,despesa_funcao_23,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-E,TotalDespesas,23 - Comércio e Serviços,Despesas Empenhadas,2911754.72,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2017,despesa_funcao_26,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-E,TotalDespesas,26 - Transporte,Despesas Empenhadas,19029.78,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2017,despesa_funcao_28,siconfi_dca_arcoverde_2017.json,DCA-Anexo I-E,TotalDespesas,28 - Encargos Especiais,Despesas Empenhadas,2252562.49,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,receita_total_bruta,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-C,TotalReceitas,Total Receitas,Receitas Brutas Realizadas,157454881.55,Padrão
+Arcoverde/PE,2601201,2018,deducao_fundeb,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-C,TotalReceitas,Total Receitas,Deduções - FUNDEB,12079304.46,Padrão
+Arcoverde/PE,2601201,2018,despesa_empenhada_total,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,149086022.77,Padrão
+Arcoverde/PE,2601201,2018,despesa_liquidada_total,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,149086022.77,Padrão
+Arcoverde/PE,2601201,2018,despesa_paga_total,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,140057247.92,Padrão
+Arcoverde/PE,2601201,2018,despesa_empenhada_exceto_intra,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Empenhadas,142643645.99,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,despesa_liquidada_exceto_intra,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Liquidadas,142643645.99,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,despesa_paga_exceto_intra,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Pagas,134277178.21,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,receita_tributaria_propria_bruta,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-C,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",Receitas Brutas Realizadas,13412964.41,Padrão
+Arcoverde/PE,2601201,2018,transferencias_correntes_total_brutas,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-C,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,Receitas Brutas Realizadas,114751227.41,Padrão
+Arcoverde/PE,2601201,2018,transferencias_capital_total_brutas,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-C,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,Receitas Brutas Realizadas,2459223.06,Padrão
+Arcoverde/PE,2601201,2018,transferencias_intergov_correntes_proxy,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-C,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,65307332.49,Padrão
+Arcoverde/PE,2601201,2018,transferencias_intergov_correntes_proxy,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-C,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,25079048.75,Padrão
+Arcoverde/PE,2601201,2018,transferencias_intergov_capital_proxy,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-C,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,1870624,Padrão
+Arcoverde/PE,2601201,2018,transferencias_intergov_capital_proxy,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-C,RO2.4.2.0.00.0.0,2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,588599.06,Padrão
+Arcoverde/PE,2601201,2018,despesa_funcao_01,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,01 - Legislativa,Despesas Empenhadas,5188205.22,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,despesa_funcao_04,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,04 - Administração,Despesas Empenhadas,29478695.42,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,despesa_funcao_06,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,06 - Segurança Pública,Despesas Empenhadas,1016.26,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,despesa_funcao_08,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,08 - Assistência Social,Despesas Empenhadas,4227734.41,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,despesa_funcao_09,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,09 - Previdência Social,Despesas Empenhadas,16270180.36,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,despesa_funcao_10,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,10 - Saúde,Despesas Empenhadas,33290586.41,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,despesa_funcao_11,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,11 - Trabalho,Despesas Empenhadas,3730.5,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,despesa_funcao_12,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,12 - Educação,Despesas Empenhadas,40700972.52,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,despesa_funcao_14,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,14 - Direitos da Cidadania,Despesas Empenhadas,44.4,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,despesa_funcao_15,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,15 - Urbanismo,Despesas Empenhadas,8777919.38,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,despesa_funcao_18,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,18 - Gestão Ambiental,Despesas Empenhadas,1331386.57,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,despesa_funcao_20,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,20 - Agricultura,Despesas Empenhadas,203126.5,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,despesa_funcao_23,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,23 - Comércio e Serviços,Despesas Empenhadas,1866665.33,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,despesa_funcao_25,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,25 - Energia,Despesas Empenhadas,44.13,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,despesa_funcao_26,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,26 - Transporte,Despesas Empenhadas,141099.7,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,despesa_funcao_27,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,27 - Desporto e Lazer,Despesas Empenhadas,163589.16,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2018,despesa_funcao_28,siconfi_dca_arcoverde_2018.json,DCA-Anexo I-E,TotalDespesas,28 - Encargos Especiais,Despesas Empenhadas,998649.72,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2019,receita_total_bruta,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Receitas Brutas Realizadas,175825315.89,Padrão
+Arcoverde/PE,2601201,2019,deducao_fundeb,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Deduções - FUNDEB,13092007.87,Padrão
+Arcoverde/PE,2601201,2019,despesa_empenhada_total,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,161175792.5,Padrão
+Arcoverde/PE,2601201,2019,despesa_liquidada_total,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,161175792.5,Padrão
+Arcoverde/PE,2601201,2019,despesa_paga_total,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,154462878.53,Padrão
+Arcoverde/PE,2601201,2019,despesa_empenhada_exceto_intra,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Empenhadas,154473795.18,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2019,despesa_liquidada_exceto_intra,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Liquidadas,154473795.18,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2019,despesa_paga_exceto_intra,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Pagas,148275381.92,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2019,receita_intra_bruta,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-C,ReceitasIntraOrcamentarias,RECEITAS (INTRA-ORÇAMENTÁRIAS) (II),Receitas Brutas Realizadas,6899889.58,Padrão
+Arcoverde/PE,2601201,2019,receita_exceto_intra_bruta,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-C,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),Receitas Brutas Realizadas,168925426.31,Padrão
+Arcoverde/PE,2601201,2019,receita_tributaria_propria_bruta,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-C,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",Receitas Brutas Realizadas,16534029.45,Padrão
+Arcoverde/PE,2601201,2019,transferencias_correntes_total_brutas,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-C,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,Receitas Brutas Realizadas,126996824.43,Padrão
+Arcoverde/PE,2601201,2019,transferencias_capital_total_brutas,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-C,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,Receitas Brutas Realizadas,4427612.58,Padrão
+Arcoverde/PE,2601201,2019,transferencias_intergov_correntes_proxy,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-C,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,75420866.79,Padrão
+Arcoverde/PE,2601201,2019,transferencias_intergov_correntes_proxy,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-C,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,26788044.03,Padrão
+Arcoverde/PE,2601201,2019,transferencias_intergov_capital_proxy,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-C,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,4427612.58,Padrão
+Arcoverde/PE,2601201,2019,despesa_funcao_01,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-E,TotalDespesas,01 - Legislativa,Despesas Empenhadas,5442609.38,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2019,despesa_funcao_04,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-E,TotalDespesas,04 - Administração,Despesas Empenhadas,29370832.43,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2019,despesa_funcao_08,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-E,TotalDespesas,08 - Assistência Social,Despesas Empenhadas,4679154.04,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2019,despesa_funcao_09,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-E,TotalDespesas,09 - Previdência Social,Despesas Empenhadas,17904140.97,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2019,despesa_funcao_10,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-E,TotalDespesas,10 - Saúde,Despesas Empenhadas,34999010.43,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2019,despesa_funcao_11,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-E,TotalDespesas,11 - Trabalho,Despesas Empenhadas,4103.55,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2019,despesa_funcao_12,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-E,TotalDespesas,12 - Educação,Despesas Empenhadas,45992129.97,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2019,despesa_funcao_14,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-E,TotalDespesas,14 - Direitos da Cidadania,Despesas Empenhadas,1764,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2019,despesa_funcao_15,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-E,TotalDespesas,15 - Urbanismo,Despesas Empenhadas,10962176.57,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2019,despesa_funcao_18,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-E,TotalDespesas,18 - Gestão Ambiental,Despesas Empenhadas,1151001.56,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2019,despesa_funcao_20,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-E,TotalDespesas,20 - Agricultura,Despesas Empenhadas,214059.25,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2019,despesa_funcao_23,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-E,TotalDespesas,23 - Comércio e Serviços,Despesas Empenhadas,2552890.85,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2019,despesa_funcao_26,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-E,TotalDespesas,26 - Transporte,Despesas Empenhadas,7124.8,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2019,despesa_funcao_27,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-E,TotalDespesas,27 - Desporto e Lazer,Despesas Empenhadas,116000.41,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2019,despesa_funcao_28,siconfi_dca_arcoverde_2019.json,DCA-Anexo I-E,TotalDespesas,28 - Encargos Especiais,Despesas Empenhadas,1076796.97,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2020,receita_total_bruta,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Receitas Brutas Realizadas,194331449.9,Padrão
+Arcoverde/PE,2601201,2020,deducao_fundeb,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Deduções - FUNDEB,12332254.15,Padrão
+Arcoverde/PE,2601201,2020,despesa_empenhada_total,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,194867522.94,Padrão
+Arcoverde/PE,2601201,2020,despesa_liquidada_total,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,194867522.94,Padrão
+Arcoverde/PE,2601201,2020,despesa_paga_total,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,189489234.67,Padrão
+Arcoverde/PE,2601201,2020,despesa_empenhada_exceto_intra,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Empenhadas,187134713.94,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2020,despesa_liquidada_exceto_intra,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Liquidadas,187134713.94,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2020,despesa_paga_exceto_intra,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Pagas,182389595.09,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2020,receita_intra_bruta,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-C,ReceitasIntraOrcamentarias,RECEITAS (INTRA-ORÇAMENTÁRIAS) (II),Receitas Brutas Realizadas,7557801.22,Padrão
+Arcoverde/PE,2601201,2020,receita_exceto_intra_bruta,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-C,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),Receitas Brutas Realizadas,186773648.68,Padrão
+Arcoverde/PE,2601201,2020,receita_tributaria_propria_bruta,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-C,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",Receitas Brutas Realizadas,18667002.94,Padrão
+Arcoverde/PE,2601201,2020,transferencias_correntes_total_brutas,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-C,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,Receitas Brutas Realizadas,139734848.92,Padrão
+Arcoverde/PE,2601201,2020,transferencias_capital_total_brutas,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-C,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,Receitas Brutas Realizadas,3423037.89,Padrão
+Arcoverde/PE,2601201,2020,transferencias_intergov_correntes_proxy,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-C,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,88905968.5,Padrão
+Arcoverde/PE,2601201,2020,transferencias_intergov_correntes_proxy,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-C,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,24472060.67,Padrão
+Arcoverde/PE,2601201,2020,transferencias_intergov_capital_proxy,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-C,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,2519279.87,Padrão
+Arcoverde/PE,2601201,2020,transferencias_intergov_capital_proxy,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-C,RO2.4.2.0.00.0.0,2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,903758.02,Padrão
+Arcoverde/PE,2601201,2020,despesa_funcao_01,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-E,TotalDespesas,01 - Legislativa,Despesas Empenhadas,5270109.44,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2020,despesa_funcao_04,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-E,TotalDespesas,04 - Administração,Despesas Empenhadas,43220378.1,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2020,despesa_funcao_08,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-E,TotalDespesas,08 - Assistência Social,Despesas Empenhadas,6911325.59,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2020,despesa_funcao_09,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-E,TotalDespesas,09 - Previdência Social,Despesas Empenhadas,19576913.8,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2020,despesa_funcao_10,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-E,TotalDespesas,10 - Saúde,Despesas Empenhadas,43516457.67,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2020,despesa_funcao_12,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-E,TotalDespesas,12 - Educação,Despesas Empenhadas,48419404.17,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2020,despesa_funcao_13,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-E,TotalDespesas,13 - Cultura,Despesas Empenhadas,541422.61,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2020,despesa_funcao_14,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-E,TotalDespesas,14 - Direitos da Cidadania,Despesas Empenhadas,896,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2020,despesa_funcao_15,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-E,TotalDespesas,15 - Urbanismo,Despesas Empenhadas,16213313.63,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2020,despesa_funcao_18,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-E,TotalDespesas,18 - Gestão Ambiental,Despesas Empenhadas,1691959.67,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2020,despesa_funcao_20,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-E,TotalDespesas,20 - Agricultura,Despesas Empenhadas,69849,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2020,despesa_funcao_23,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-E,TotalDespesas,23 - Comércio e Serviços,Despesas Empenhadas,491885.07,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2020,despesa_funcao_28,siconfi_dca_arcoverde_2020.json,DCA-Anexo I-E,TotalDespesas,28 - Encargos Especiais,Despesas Empenhadas,1210799.19,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2021,receita_total_bruta,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Receitas Brutas Realizadas,216015961.16,Padrão
+Arcoverde/PE,2601201,2021,deducao_fundeb,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Deduções - FUNDEB,16269558.61,Padrão
+Arcoverde/PE,2601201,2021,despesa_empenhada_total,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,199521923.37,Padrão
+Arcoverde/PE,2601201,2021,despesa_liquidada_total,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,196364699.37,Padrão
+Arcoverde/PE,2601201,2021,despesa_paga_total,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,189550670.4,Padrão
+Arcoverde/PE,2601201,2021,despesa_empenhada_exceto_intra,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Empenhadas,191085836.73,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2021,despesa_liquidada_exceto_intra,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Liquidadas,187928612.73,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2021,despesa_paga_exceto_intra,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Pagas,181803556.73,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2021,receita_intra_bruta,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-C,ReceitasIntraOrcamentarias,RECEITAS (INTRA-ORÇAMENTÁRIAS) (II),Receitas Brutas Realizadas,8316399.41,Padrão
+Arcoverde/PE,2601201,2021,receita_exceto_intra_bruta,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-C,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),Receitas Brutas Realizadas,207699561.75,Padrão
+Arcoverde/PE,2601201,2021,receita_tributaria_propria_bruta,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-C,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",Receitas Brutas Realizadas,24779690.09,Padrão
+Arcoverde/PE,2601201,2021,transferencias_correntes_total_brutas,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-C,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,Receitas Brutas Realizadas,157389365.75,Padrão
+Arcoverde/PE,2601201,2021,transferencias_capital_total_brutas,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-C,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,Receitas Brutas Realizadas,2178201.37,Padrão
+Arcoverde/PE,2601201,2021,transferencias_intergov_correntes_proxy,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-C,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,89138565.53,Padrão
+Arcoverde/PE,2601201,2021,transferencias_intergov_correntes_proxy,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-C,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,32178829.29,Padrão
+Arcoverde/PE,2601201,2021,transferencias_intergov_capital_proxy,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-C,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,1845237.89,Padrão
+Arcoverde/PE,2601201,2021,transferencias_intergov_capital_proxy,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-C,RO2.4.2.0.00.0.0,2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,332963.48,Padrão
+Arcoverde/PE,2601201,2021,despesa_funcao_01,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-E,TotalDespesas,01 - Legislativa,Despesas Empenhadas,5726233.38,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2021,despesa_funcao_04,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-E,TotalDespesas,04 - Administração,Despesas Empenhadas,41759299.95,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2021,despesa_funcao_08,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-E,TotalDespesas,08 - Assistência Social,Despesas Empenhadas,6747176.9,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2021,despesa_funcao_09,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-E,TotalDespesas,09 - Previdência Social,Despesas Empenhadas,21184860.98,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2021,despesa_funcao_10,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-E,TotalDespesas,10 - Saúde,Despesas Empenhadas,43895656.8,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2021,despesa_funcao_11,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-E,TotalDespesas,11 - Trabalho,Despesas Empenhadas,4103.55,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2021,despesa_funcao_12,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-E,TotalDespesas,12 - Educação,Despesas Empenhadas,53423098.8,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2021,despesa_funcao_14,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-E,TotalDespesas,14 - Direitos da Cidadania,Despesas Empenhadas,23892.44,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2021,despesa_funcao_15,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-E,TotalDespesas,15 - Urbanismo,Despesas Empenhadas,13959815.73,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2021,despesa_funcao_18,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-E,TotalDespesas,18 - Gestão Ambiental,Despesas Empenhadas,1614980.29,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2021,despesa_funcao_20,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-E,TotalDespesas,20 - Agricultura,Despesas Empenhadas,84295.31,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2021,despesa_funcao_23,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-E,TotalDespesas,23 - Comércio e Serviços,Despesas Empenhadas,9600,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2021,despesa_funcao_28,siconfi_dca_arcoverde_2021.json,DCA-Anexo I-E,TotalDespesas,28 - Encargos Especiais,Despesas Empenhadas,2652822.6,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2022,receita_total_bruta,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Receitas Brutas Realizadas,258385595.31,Padrão
+Arcoverde/PE,2601201,2022,deducao_fundeb,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Deduções - FUNDEB,19049128.79,Padrão
+Arcoverde/PE,2601201,2022,outras_deducoes,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Outras Deduções da Receita,1294.17,Padrão
+Arcoverde/PE,2601201,2022,despesa_empenhada_total,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,238057728.87,Padrão
+Arcoverde/PE,2601201,2022,despesa_liquidada_total,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,238057728.87,Padrão
+Arcoverde/PE,2601201,2022,despesa_paga_total,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,230890139.27,Padrão
+Arcoverde/PE,2601201,2022,despesa_empenhada_exceto_intra,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Empenhadas,227426418.66,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2022,despesa_liquidada_exceto_intra,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Liquidadas,227426418.66,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2022,despesa_paga_exceto_intra,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Pagas,221080179.15,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2022,receita_intra_bruta,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-C,ReceitasIntraOrcamentarias,RECEITAS (INTRA-ORÇAMENTÁRIAS) (II),Receitas Brutas Realizadas,10434270.7,Padrão
+Arcoverde/PE,2601201,2022,receita_exceto_intra_bruta,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-C,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),Receitas Brutas Realizadas,247951324.61,Padrão
+Arcoverde/PE,2601201,2022,receita_tributaria_propria_bruta,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-C,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",Receitas Brutas Realizadas,27354130.63,Padrão
+Arcoverde/PE,2601201,2022,transferencias_correntes_total_brutas,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-C,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,Receitas Brutas Realizadas,186610824.16,Padrão
+Arcoverde/PE,2601201,2022,transferencias_capital_total_brutas,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-C,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,Receitas Brutas Realizadas,4992600.19,Padrão
+Arcoverde/PE,2601201,2022,transferencias_intergov_correntes_proxy,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-C,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,113561984.9,Padrão
+Arcoverde/PE,2601201,2022,transferencias_intergov_correntes_proxy,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-C,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,34409944.5,Padrão
+Arcoverde/PE,2601201,2022,transferencias_intergov_capital_proxy,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-C,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,3688730.5,Padrão
+Arcoverde/PE,2601201,2022,transferencias_intergov_capital_proxy,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-C,RO2.4.2.0.00.0.0,2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,1303869.69,Padrão
+Arcoverde/PE,2601201,2022,despesa_funcao_01,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-E,TotalDespesas,01 - Legislativa,Despesas Empenhadas,7268466.66,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2022,despesa_funcao_04,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-E,TotalDespesas,04 - Administração,Despesas Empenhadas,49718927.16,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2022,despesa_funcao_08,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-E,TotalDespesas,08 - Assistência Social,Despesas Empenhadas,8663731.83,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2022,despesa_funcao_09,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-E,TotalDespesas,09 - Previdência Social,Despesas Empenhadas,21980440.17,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2022,despesa_funcao_10,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-E,TotalDespesas,10 - Saúde,Despesas Empenhadas,48895351.86,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2022,despesa_funcao_11,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-E,TotalDespesas,11 - Trabalho,Despesas Empenhadas,4924.26,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2022,despesa_funcao_12,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-E,TotalDespesas,12 - Educação,Despesas Empenhadas,66437915.67,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2022,despesa_funcao_13,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-E,TotalDespesas,13 - Cultura,Despesas Empenhadas,469396.42,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2022,despesa_funcao_14,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-E,TotalDespesas,14 - Direitos da Cidadania,Despesas Empenhadas,265459,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2022,despesa_funcao_15,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-E,TotalDespesas,15 - Urbanismo,Despesas Empenhadas,11572091.41,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2022,despesa_funcao_18,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-E,TotalDespesas,18 - Gestão Ambiental,Despesas Empenhadas,1227289.15,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2022,despesa_funcao_20,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-E,TotalDespesas,20 - Agricultura,Despesas Empenhadas,70761.52,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2022,despesa_funcao_23,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-E,TotalDespesas,23 - Comércio e Serviços,Despesas Empenhadas,4505261.92,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2022,despesa_funcao_27,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-E,TotalDespesas,27 - Desporto e Lazer,Despesas Empenhadas,138356.43,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2022,despesa_funcao_28,siconfi_dca_arcoverde_2022.json,DCA-Anexo I-E,TotalDespesas,28 - Encargos Especiais,Despesas Empenhadas,6208045.2,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2023,receita_total_bruta,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Receitas Brutas Realizadas,280606346.35,Padrão
+Arcoverde/PE,2601201,2023,deducao_fundeb,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Deduções - FUNDEB,19179796.04,Padrão
+Arcoverde/PE,2601201,2023,outras_deducoes,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Outras Deduções da Receita,795879.78,Padrão
+Arcoverde/PE,2601201,2023,despesa_empenhada_total,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,269469223.81,Padrão
+Arcoverde/PE,2601201,2023,despesa_liquidada_total,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,269469223.81,Padrão
+Arcoverde/PE,2601201,2023,despesa_paga_total,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,261892124.03,Padrão
+Arcoverde/PE,2601201,2023,despesa_empenhada_exceto_intra,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Empenhadas,259207492.71,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2023,despesa_liquidada_exceto_intra,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Liquidadas,259207492.71,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2023,despesa_paga_exceto_intra,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Pagas,252872649.65,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2023,receita_intra_bruta,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-C,ReceitasIntraOrcamentarias,RECEITAS (INTRA-ORÇAMENTÁRIAS) (II),Receitas Brutas Realizadas,9762381.44,Padrão
+Arcoverde/PE,2601201,2023,receita_exceto_intra_bruta,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-C,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),Receitas Brutas Realizadas,270843964.91,Padrão
+Arcoverde/PE,2601201,2023,receita_tributaria_propria_bruta,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-C,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",Receitas Brutas Realizadas,29430463.83,Padrão
+Arcoverde/PE,2601201,2023,transferencias_correntes_total_brutas,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-C,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,Receitas Brutas Realizadas,199385225.86,Padrão
+Arcoverde/PE,2601201,2023,transferencias_capital_total_brutas,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-C,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,Receitas Brutas Realizadas,6701597.06,Padrão
+Arcoverde/PE,2601201,2023,transferencias_intergov_correntes_proxy,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-C,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,120195726.74,Padrão
+Arcoverde/PE,2601201,2023,transferencias_intergov_correntes_proxy,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-C,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,38895544.86,Padrão
+Arcoverde/PE,2601201,2023,transferencias_intergov_capital_proxy,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-C,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,6451544.23,Padrão
+Arcoverde/PE,2601201,2023,transferencias_intergov_capital_proxy,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-C,RO2.4.2.0.00.0.0,2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,250052.83,Padrão
+Arcoverde/PE,2601201,2023,despesa_funcao_01,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-E,TotalDespesas,01 - Legislativa,Despesas Empenhadas,9428171.63,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2023,despesa_funcao_04,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-E,TotalDespesas,04 - Administração,Despesas Empenhadas,50781671.44,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2023,despesa_funcao_08,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-E,TotalDespesas,08 - Assistência Social,Despesas Empenhadas,14735134.12,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2023,despesa_funcao_09,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-E,TotalDespesas,09 - Previdência Social,Despesas Empenhadas,36086398.24,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2023,despesa_funcao_10,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-E,TotalDespesas,10 - Saúde,Despesas Empenhadas,52938108.48,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2023,despesa_funcao_11,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-E,TotalDespesas,11 - Trabalho,Despesas Empenhadas,36000,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2023,despesa_funcao_12,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-E,TotalDespesas,12 - Educação,Despesas Empenhadas,70329076.69,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2023,despesa_funcao_13,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-E,TotalDespesas,13 - Cultura,Despesas Empenhadas,1402840.37,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2023,despesa_funcao_14,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-E,TotalDespesas,14 - Direitos da Cidadania,Despesas Empenhadas,455057.46,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2023,despesa_funcao_15,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-E,TotalDespesas,15 - Urbanismo,Despesas Empenhadas,11750532.52,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2023,despesa_funcao_18,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-E,TotalDespesas,18 - Gestão Ambiental,Despesas Empenhadas,1049916.08,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2023,despesa_funcao_20,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-E,TotalDespesas,20 - Agricultura,Despesas Empenhadas,52437.91,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2023,despesa_funcao_23,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-E,TotalDespesas,23 - Comércio e Serviços,Despesas Empenhadas,2651784.61,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2023,despesa_funcao_26,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-E,TotalDespesas,26 - Transporte,Despesas Empenhadas,31269.29,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2023,despesa_funcao_27,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-E,TotalDespesas,27 - Desporto e Lazer,Despesas Empenhadas,84807.38,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2023,despesa_funcao_28,siconfi_dca_arcoverde_2023.json,DCA-Anexo I-E,TotalDespesas,28 - Encargos Especiais,Despesas Empenhadas,7394286.49,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2024,receita_total_bruta,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Receitas Brutas Realizadas,338825647.94,Padrão
+Arcoverde/PE,2601201,2024,deducao_fundeb,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Deduções - FUNDEB,21887725.46,Padrão
+Arcoverde/PE,2601201,2024,outras_deducoes,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Outras Deduções da Receita,27457.17,Padrão
+Arcoverde/PE,2601201,2024,despesa_empenhada_total,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,317259552.36,Padrão
+Arcoverde/PE,2601201,2024,despesa_liquidada_total,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,317254974.66,Padrão
+Arcoverde/PE,2601201,2024,despesa_paga_total,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,305808332.8,Padrão
+Arcoverde/PE,2601201,2024,despesa_empenhada_exceto_intra,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Empenhadas,306654812.31,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2024,despesa_liquidada_exceto_intra,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Liquidadas,306650234.61,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2024,despesa_paga_exceto_intra,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Pagas,295644148.27,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2024,receita_intra_bruta,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-C,ReceitasIntraOrcamentarias,RECEITAS (INTRA-ORÇAMENTÁRIAS) (II),Receitas Brutas Realizadas,11341576.94,Padrão
+Arcoverde/PE,2601201,2024,receita_exceto_intra_bruta,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-C,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),Receitas Brutas Realizadas,327484071,Padrão
+Arcoverde/PE,2601201,2024,receita_tributaria_propria_bruta,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-C,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",Receitas Brutas Realizadas,34865348.74,Padrão
+Arcoverde/PE,2601201,2024,transferencias_correntes_total_brutas,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-C,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,Receitas Brutas Realizadas,254135907.7,Padrão
+Arcoverde/PE,2601201,2024,transferencias_capital_total_brutas,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-C,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,Receitas Brutas Realizadas,5522921.28,Padrão
+Arcoverde/PE,2601201,2024,transferencias_intergov_correntes_proxy,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-C,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,163507404.99,Padrão
+Arcoverde/PE,2601201,2024,transferencias_intergov_correntes_proxy,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-C,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,42489357.4,Padrão
+Arcoverde/PE,2601201,2024,transferencias_intergov_capital_proxy,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-C,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,3129086.46,Padrão
+Arcoverde/PE,2601201,2024,transferencias_intergov_capital_proxy,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-C,RO2.4.2.0.00.0.0,2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,2393834.82,Padrão
+Arcoverde/PE,2601201,2024,despesa_funcao_01,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-E,TotalDespesas,01 - Legislativa,Despesas Empenhadas,9287257.23,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2024,despesa_funcao_04,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-E,TotalDespesas,04 - Administração,Despesas Empenhadas,61209201.6,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2024,despesa_funcao_08,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-E,TotalDespesas,08 - Assistência Social,Despesas Empenhadas,13807694.15,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2024,despesa_funcao_09,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-E,TotalDespesas,09 - Previdência Social,Despesas Empenhadas,33090916.93,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2024,despesa_funcao_10,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-E,TotalDespesas,10 - Saúde,Despesas Empenhadas,66669381.86,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2024,despesa_funcao_11,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-E,TotalDespesas,11 - Trabalho,Despesas Empenhadas,16514.45,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2024,despesa_funcao_12,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-E,TotalDespesas,12 - Educação,Despesas Empenhadas,93733951.66,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2024,despesa_funcao_13,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-E,TotalDespesas,13 - Cultura,Despesas Empenhadas,1315454.01,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2024,despesa_funcao_14,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-E,TotalDespesas,14 - Direitos da Cidadania,Despesas Empenhadas,467043.19,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2024,despesa_funcao_15,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-E,TotalDespesas,15 - Urbanismo,Despesas Empenhadas,13291401.19,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2024,despesa_funcao_18,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-E,TotalDespesas,18 - Gestão Ambiental,Despesas Empenhadas,1447469.14,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2024,despesa_funcao_20,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-E,TotalDespesas,20 - Agricultura,Despesas Empenhadas,9488.99,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2024,despesa_funcao_23,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-E,TotalDespesas,23 - Comércio e Serviços,Despesas Empenhadas,4389123.19,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2024,despesa_funcao_27,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-E,TotalDespesas,27 - Desporto e Lazer,Despesas Empenhadas,108032.83,Total Geral da Despesa por Função
+Arcoverde/PE,2601201,2024,despesa_funcao_28,siconfi_dca_arcoverde_2024.json,DCA-Anexo I-E,TotalDespesas,28 - Encargos Especiais,Despesas Empenhadas,7811881.89,Total Geral da Despesa por Função
+Araripina/PE,2601102,2015,receita_total_bruta,siconfi_dca_araripina_2015.json,DCA-Anexo I-C,TotalReceitas,Total Receitas,Receitas Brutas Realizadas,149488959,
+Araripina/PE,2601102,2015,deducao_fundeb,siconfi_dca_araripina_2015.json,DCA-Anexo I-C,TotalReceitas,Total Receitas,Deduções - FUNDEB,-10093009.53,
+Araripina/PE,2601102,2015,despesa_empenhada_total,siconfi_dca_araripina_2015.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,140850288.38,
+Araripina/PE,2601102,2015,despesa_liquidada_total,siconfi_dca_araripina_2015.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,140661525.17,
+Araripina/PE,2601102,2015,despesa_paga_total,siconfi_dca_araripina_2015.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,135582786.63,
+Araripina/PE,2601102,2015,receita_tributaria_propria_bruta,siconfi_dca_araripina_2015.json,DCA-Anexo I-C,RO1.1.0.0.00.00.00,1.1.0.0.00.00.00 - Receita Tributária,Receitas Brutas Realizadas,6953850.47,
+Araripina/PE,2601102,2015,transferencias_correntes_total_brutas,siconfi_dca_araripina_2015.json,DCA-Anexo I-C,RO1.7.0.0.00.00.00,1.7.0.0.00.00.00 - Transferências Correntes,Receitas Brutas Realizadas,119279955.24,
+Araripina/PE,2601102,2015,transferencias_capital_total_brutas,siconfi_dca_araripina_2015.json,DCA-Anexo I-C,RO2.4.0.0.00.00.00,2.4.0.0.00.00.00 - Transferências de Capital,Receitas Brutas Realizadas,5963677.48,
+Araripina/PE,2601102,2015,transferencias_intergov_correntes_proxy,siconfi_dca_araripina_2015.json,DCA-Anexo I-C,RO1.7.2.0.00.00.00,1.7.2.0.00.00.00 - Transferências Intergovernamentais,Receitas Brutas Realizadas,119208184.49,
+Araripina/PE,2601102,2015,transferencias_intergov_capital_proxy,siconfi_dca_araripina_2015.json,DCA-Anexo I-C,RO2.4.2.0.00.00.00,2.4.2.0.00.00.00 - Transferências Intergovernamentais,Receitas Brutas Realizadas,764655.87,
+Araripina/PE,2601102,2016,receita_total_bruta,siconfi_dca_araripina_2016.json,DCA-Anexo I-C,TotalReceitas,Total Receitas,Receitas Brutas Realizadas,153010571.68,
+Araripina/PE,2601102,2016,deducao_fundeb,siconfi_dca_araripina_2016.json,DCA-Anexo I-C,TotalReceitas,Total Receitas,Deduções - FUNDEB,11321945.19,
+Araripina/PE,2601102,2016,despesa_empenhada_total,siconfi_dca_araripina_2016.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,144559950.05,
+Araripina/PE,2601102,2016,despesa_liquidada_total,siconfi_dca_araripina_2016.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,144095218.23,
+Araripina/PE,2601102,2016,despesa_paga_total,siconfi_dca_araripina_2016.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,137473977.04,
+Araripina/PE,2601102,2016,receita_tributaria_propria_bruta,siconfi_dca_araripina_2016.json,DCA-Anexo I-C,RO1.1.0.0.00.00.00,1.1.0.0.00.00.00 - Receita Tributária,Receitas Brutas Realizadas,8421767.34,
+Araripina/PE,2601102,2016,transferencias_correntes_total_brutas,siconfi_dca_araripina_2016.json,DCA-Anexo I-C,RO1.7.0.0.00.00.00,1.7.0.0.00.00.00 - Transferências Correntes,Receitas Brutas Realizadas,122197382.77,
+Araripina/PE,2601102,2016,transferencias_capital_total_brutas,siconfi_dca_araripina_2016.json,DCA-Anexo I-C,RO2.4.0.0.00.00.00,2.4.0.0.00.00.00 - Transferências de Capital,Receitas Brutas Realizadas,1702375.9,
+Araripina/PE,2601102,2016,transferencias_intergov_correntes_proxy,siconfi_dca_araripina_2016.json,DCA-Anexo I-C,RO1.7.2.0.00.00.00,1.7.2.0.00.00.00 - Transferências Intergovernamentais,Receitas Brutas Realizadas,122084808.01,
+Araripina/PE,2601102,2017,receita_total_bruta,siconfi_dca_araripina_2017.json,DCA-Anexo I-C,TotalReceitas,Total Receitas,Receitas Brutas Realizadas,161988934.65,Padrão
+Araripina/PE,2601102,2017,deducao_fundeb,siconfi_dca_araripina_2017.json,DCA-Anexo I-C,TotalReceitas,Total Receitas,Deduções - FUNDEB,11013976.38,Padrão
+Araripina/PE,2601102,2017,despesa_empenhada_total,siconfi_dca_araripina_2017.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,154891637.84,Padrão
+Araripina/PE,2601102,2017,despesa_liquidada_total,siconfi_dca_araripina_2017.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,154826524.06,Padrão
+Araripina/PE,2601102,2017,despesa_paga_total,siconfi_dca_araripina_2017.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,147965476.25,Padrão
+Araripina/PE,2601102,2017,despesa_empenhada_exceto_intra,siconfi_dca_araripina_2017.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Empenhadas,146549527.9,Total Geral da Despesa por Função
+Araripina/PE,2601102,2017,despesa_liquidada_exceto_intra,siconfi_dca_araripina_2017.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Liquidadas,146484414.12,Total Geral da Despesa por Função
+Araripina/PE,2601102,2017,despesa_paga_exceto_intra,siconfi_dca_araripina_2017.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Pagas,140832046.85,Total Geral da Despesa por Função
+Araripina/PE,2601102,2017,receita_tributaria_propria_bruta,siconfi_dca_araripina_2017.json,DCA-Anexo I-C,RO1.1.0.0.00.00.00,1.1.0.0.00.00.00 - Receita Tributária,Receitas Brutas Realizadas,8909186.29,Padrão
+Araripina/PE,2601102,2017,transferencias_correntes_total_brutas,siconfi_dca_araripina_2017.json,DCA-Anexo I-C,RO1.7.0.0.00.00.00,1.7.0.0.00.00.00 - Transferências Correntes,Receitas Brutas Realizadas,126354124.88,Padrão
+Araripina/PE,2601102,2017,transferencias_capital_total_brutas,siconfi_dca_araripina_2017.json,DCA-Anexo I-C,RO2.4.0.0.00.00.00,2.4.0.0.00.00.00 - Transferências de Capital,Receitas Brutas Realizadas,1126556.66,Padrão
+Araripina/PE,2601102,2017,transferencias_intergov_correntes_proxy,siconfi_dca_araripina_2017.json,DCA-Anexo I-C,RO1.7.2.0.00.00.00,1.7.2.0.00.00.00 - Transferências Intergovernamentais,Receitas Brutas Realizadas,125224381.34,Padrão
+Araripina/PE,2601102,2017,transferencias_intergov_capital_proxy,siconfi_dca_araripina_2017.json,DCA-Anexo I-C,RO2.4.2.0.00.00.00,2.4.2.0.00.00.00 - Transferências Intergovernamentais,Receitas Brutas Realizadas,78483.8,Padrão
+Araripina/PE,2601102,2017,despesa_funcao_01,siconfi_dca_araripina_2017.json,DCA-Anexo I-E,TotalDespesas,01 - Legislativa,Despesas Empenhadas,4892795.77,Total Geral da Despesa por Função
+Araripina/PE,2601102,2017,despesa_funcao_02,siconfi_dca_araripina_2017.json,DCA-Anexo I-E,TotalDespesas,02 - Judiciária,Despesas Empenhadas,936828.4,Total Geral da Despesa por Função
+Araripina/PE,2601102,2017,despesa_funcao_04,siconfi_dca_araripina_2017.json,DCA-Anexo I-E,TotalDespesas,04 - Administração,Despesas Empenhadas,10027980.35,Total Geral da Despesa por Função
+Araripina/PE,2601102,2017,despesa_funcao_08,siconfi_dca_araripina_2017.json,DCA-Anexo I-E,TotalDespesas,08 - Assistência Social,Despesas Empenhadas,3815137.65,Total Geral da Despesa por Função
+Araripina/PE,2601102,2017,despesa_funcao_09,siconfi_dca_araripina_2017.json,DCA-Anexo I-E,TotalDespesas,09 - Previdência Social,Despesas Empenhadas,13189246.94,Total Geral da Despesa por Função
+Araripina/PE,2601102,2017,despesa_funcao_10,siconfi_dca_araripina_2017.json,DCA-Anexo I-E,TotalDespesas,10 - Saúde,Despesas Empenhadas,31209743.92,Total Geral da Despesa por Função
+Araripina/PE,2601102,2017,despesa_funcao_12,siconfi_dca_araripina_2017.json,DCA-Anexo I-E,TotalDespesas,12 - Educação,Despesas Empenhadas,60726478.32,Total Geral da Despesa por Função
+Araripina/PE,2601102,2017,despesa_funcao_13,siconfi_dca_araripina_2017.json,DCA-Anexo I-E,TotalDespesas,13 - Cultura,Despesas Empenhadas,3927214.99,Total Geral da Despesa por Função
+Araripina/PE,2601102,2017,despesa_funcao_15,siconfi_dca_araripina_2017.json,DCA-Anexo I-E,TotalDespesas,15 - Urbanismo,Despesas Empenhadas,9721716.98,Total Geral da Despesa por Função
+Araripina/PE,2601102,2017,despesa_funcao_17,siconfi_dca_araripina_2017.json,DCA-Anexo I-E,TotalDespesas,17 - Saneamento,Despesas Empenhadas,163.06,Total Geral da Despesa por Função
+Araripina/PE,2601102,2017,despesa_funcao_19,siconfi_dca_araripina_2017.json,DCA-Anexo I-E,TotalDespesas,19 - Ciência e Tecnologia,Despesas Empenhadas,1075166.19,Total Geral da Despesa por Função
+Araripina/PE,2601102,2017,despesa_funcao_20,siconfi_dca_araripina_2017.json,DCA-Anexo I-E,TotalDespesas,20 - Agricultura,Despesas Empenhadas,3157171.33,Total Geral da Despesa por Função
+Araripina/PE,2601102,2017,despesa_funcao_23,siconfi_dca_araripina_2017.json,DCA-Anexo I-E,TotalDespesas,23 - Comércio e Serviços,Despesas Empenhadas,221904.74,Total Geral da Despesa por Função
+Araripina/PE,2601102,2017,despesa_funcao_27,siconfi_dca_araripina_2017.json,DCA-Anexo I-E,TotalDespesas,27 - Desporto e Lazer,Despesas Empenhadas,505057.5,Total Geral da Despesa por Função
+Araripina/PE,2601102,2017,despesa_funcao_28,siconfi_dca_araripina_2017.json,DCA-Anexo I-E,TotalDespesas,28 - Encargos Especiais,Despesas Empenhadas,3142921.76,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,receita_total_bruta,siconfi_dca_araripina_2018.json,DCA-Anexo I-C,TotalReceitas,Total Receitas,Receitas Brutas Realizadas,184621817.19,Padrão
+Araripina/PE,2601102,2018,deducao_fundeb,siconfi_dca_araripina_2018.json,DCA-Anexo I-C,TotalReceitas,Total Receitas,Deduções - FUNDEB,11712988.7,Padrão
+Araripina/PE,2601102,2018,despesa_empenhada_total,siconfi_dca_araripina_2018.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,173889763.93,Padrão
+Araripina/PE,2601102,2018,despesa_liquidada_total,siconfi_dca_araripina_2018.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,170863602.23,Padrão
+Araripina/PE,2601102,2018,despesa_paga_total,siconfi_dca_araripina_2018.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,164697256.32,Padrão
+Araripina/PE,2601102,2018,despesa_empenhada_exceto_intra,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Empenhadas,166215763.21,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,despesa_liquidada_exceto_intra,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Liquidadas,163189601.51,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,despesa_paga_exceto_intra,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Pagas,157246374.23,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,receita_tributaria_propria_bruta,siconfi_dca_araripina_2018.json,DCA-Anexo I-C,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",Receitas Brutas Realizadas,9225917.83,Padrão
+Araripina/PE,2601102,2018,transferencias_correntes_total_brutas,siconfi_dca_araripina_2018.json,DCA-Anexo I-C,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,Receitas Brutas Realizadas,144701823.68,Padrão
+Araripina/PE,2601102,2018,transferencias_capital_total_brutas,siconfi_dca_araripina_2018.json,DCA-Anexo I-C,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,Receitas Brutas Realizadas,5656018.13,Padrão
+Araripina/PE,2601102,2018,transferencias_intergov_correntes_proxy,siconfi_dca_araripina_2018.json,DCA-Anexo I-C,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,76315089.81,Padrão
+Araripina/PE,2601102,2018,transferencias_intergov_correntes_proxy,siconfi_dca_araripina_2018.json,DCA-Anexo I-C,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,20927646.69,Padrão
+Araripina/PE,2601102,2018,transferencias_intergov_capital_proxy,siconfi_dca_araripina_2018.json,DCA-Anexo I-C,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,5507599.84,Padrão
+Araripina/PE,2601102,2018,transferencias_intergov_capital_proxy,siconfi_dca_araripina_2018.json,DCA-Anexo I-C,RO2.4.2.0.00.0.0,2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,148418.29,Padrão
+Araripina/PE,2601102,2018,despesa_funcao_01,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,01 - Legislativa,Despesas Empenhadas,4847533.4,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,despesa_funcao_02,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,02 - Judiciária,Despesas Empenhadas,1308587.42,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,despesa_funcao_04,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,04 - Administração,Despesas Empenhadas,12235810.92,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,despesa_funcao_06,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,06 - Segurança Pública,Despesas Empenhadas,1400,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,despesa_funcao_08,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,08 - Assistência Social,Despesas Empenhadas,4367659.18,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,despesa_funcao_09,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,09 - Previdência Social,Despesas Empenhadas,14512494.81,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,despesa_funcao_10,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,10 - Saúde,Despesas Empenhadas,38931432.63,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,despesa_funcao_12,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,12 - Educação,Despesas Empenhadas,64090907.27,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,despesa_funcao_13,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,13 - Cultura,Despesas Empenhadas,3289901.66,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,despesa_funcao_15,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,15 - Urbanismo,Despesas Empenhadas,12962377.54,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,despesa_funcao_17,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,17 - Saneamento,Despesas Empenhadas,1142388.3,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,despesa_funcao_18,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,18 - Gestão Ambiental,Despesas Empenhadas,762467.18,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,despesa_funcao_20,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,20 - Agricultura,Despesas Empenhadas,2179131.89,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,despesa_funcao_24,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,24 - Comunicações,Despesas Empenhadas,268258.54,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,despesa_funcao_26,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,26 - Transporte,Despesas Empenhadas,1393581.3,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,despesa_funcao_27,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,27 - Desporto e Lazer,Despesas Empenhadas,367426.56,Total Geral da Despesa por Função
+Araripina/PE,2601102,2018,despesa_funcao_28,siconfi_dca_araripina_2018.json,DCA-Anexo I-E,TotalDespesas,28 - Encargos Especiais,Despesas Empenhadas,3554404.61,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,receita_total_bruta,siconfi_dca_araripina_2019.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Receitas Brutas Realizadas,186226166.97,Padrão
+Araripina/PE,2601102,2019,deducao_fundeb,siconfi_dca_araripina_2019.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Deduções - FUNDEB,12642271.25,Padrão
+Araripina/PE,2601102,2019,despesa_empenhada_total,siconfi_dca_araripina_2019.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,177169868.84,Padrão
+Araripina/PE,2601102,2019,despesa_liquidada_total,siconfi_dca_araripina_2019.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,174981575.79,Padrão
+Araripina/PE,2601102,2019,despesa_paga_total,siconfi_dca_araripina_2019.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,169197244.15,Padrão
+Araripina/PE,2601102,2019,despesa_empenhada_exceto_intra,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Empenhadas,167198296.67,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,despesa_liquidada_exceto_intra,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Liquidadas,165010003.62,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,despesa_paga_exceto_intra,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Pagas,159418827.23,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,receita_intra_bruta,siconfi_dca_araripina_2019.json,DCA-Anexo I-C,ReceitasIntraOrcamentarias,RECEITAS (INTRA-ORÇAMENTÁRIAS) (II),Receitas Brutas Realizadas,9461995.1,Padrão
+Araripina/PE,2601102,2019,receita_exceto_intra_bruta,siconfi_dca_araripina_2019.json,DCA-Anexo I-C,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),Receitas Brutas Realizadas,176764171.87,Padrão
+Araripina/PE,2601102,2019,receita_tributaria_propria_bruta,siconfi_dca_araripina_2019.json,DCA-Anexo I-C,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",Receitas Brutas Realizadas,8764083.96,Padrão
+Araripina/PE,2601102,2019,transferencias_correntes_total_brutas,siconfi_dca_araripina_2019.json,DCA-Anexo I-C,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,Receitas Brutas Realizadas,149560170.63,Padrão
+Araripina/PE,2601102,2019,transferencias_capital_total_brutas,siconfi_dca_araripina_2019.json,DCA-Anexo I-C,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,Receitas Brutas Realizadas,2860448.05,Padrão
+Araripina/PE,2601102,2019,transferencias_intergov_correntes_proxy,siconfi_dca_araripina_2019.json,DCA-Anexo I-C,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,83015064.15,Padrão
+Araripina/PE,2601102,2019,transferencias_intergov_correntes_proxy,siconfi_dca_araripina_2019.json,DCA-Anexo I-C,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,21829578.92,Padrão
+Araripina/PE,2601102,2019,transferencias_intergov_capital_proxy,siconfi_dca_araripina_2019.json,DCA-Anexo I-C,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,2860448.05,Padrão
+Araripina/PE,2601102,2019,despesa_funcao_01,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,01 - Legislativa,Despesas Empenhadas,5112046.47,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,despesa_funcao_02,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,02 - Judiciária,Despesas Empenhadas,1111873.64,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,despesa_funcao_04,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,04 - Administração,Despesas Empenhadas,13077660.8,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,despesa_funcao_08,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,08 - Assistência Social,Despesas Empenhadas,4579008.49,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,despesa_funcao_09,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,09 - Previdência Social,Despesas Empenhadas,17830015.31,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,despesa_funcao_10,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,10 - Saúde,Despesas Empenhadas,35046461.54,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,despesa_funcao_12,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,12 - Educação,Despesas Empenhadas,64921889.3,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,despesa_funcao_13,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,13 - Cultura,Despesas Empenhadas,3700640.09,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,despesa_funcao_15,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,15 - Urbanismo,Despesas Empenhadas,11626016.68,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,despesa_funcao_17,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,17 - Saneamento,Despesas Empenhadas,1370368.54,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,despesa_funcao_18,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,18 - Gestão Ambiental,Despesas Empenhadas,889925.01,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,despesa_funcao_20,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,20 - Agricultura,Despesas Empenhadas,2296134.32,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,despesa_funcao_23,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,23 - Comércio e Serviços,Despesas Empenhadas,40473.77,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,despesa_funcao_24,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,24 - Comunicações,Despesas Empenhadas,296659.36,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,despesa_funcao_26,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,26 - Transporte,Despesas Empenhadas,1236841.61,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,despesa_funcao_27,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,27 - Desporto e Lazer,Despesas Empenhadas,485115.71,Total Geral da Despesa por Função
+Araripina/PE,2601102,2019,despesa_funcao_28,siconfi_dca_araripina_2019.json,DCA-Anexo I-E,TotalDespesas,28 - Encargos Especiais,Despesas Empenhadas,3577166.03,Total Geral da Despesa por Função
+Araripina/PE,2601102,2020,receita_total_bruta,siconfi_dca_araripina_2020.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Receitas Brutas Realizadas,214229962.81,Padrão
+Araripina/PE,2601102,2020,deducao_fundeb,siconfi_dca_araripina_2020.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Deduções - FUNDEB,12257372.01,Padrão
+Araripina/PE,2601102,2020,despesa_empenhada_total,siconfi_dca_araripina_2020.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,195968081.18,Padrão
+Araripina/PE,2601102,2020,despesa_liquidada_total,siconfi_dca_araripina_2020.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,195841691.06,Padrão
+Araripina/PE,2601102,2020,despesa_paga_total,siconfi_dca_araripina_2020.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,191113935.04,Padrão
+Araripina/PE,2601102,2020,despesa_empenhada_exceto_intra,siconfi_dca_araripina_2020.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Empenhadas,180497143.65,Total Geral da Despesa por Função
+Araripina/PE,2601102,2020,despesa_liquidada_exceto_intra,siconfi_dca_araripina_2020.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Liquidadas,180370753.53,Total Geral da Despesa por Função
+Araripina/PE,2601102,2020,despesa_paga_exceto_intra,siconfi_dca_araripina_2020.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Pagas,175754006.49,Total Geral da Despesa por Função
+Araripina/PE,2601102,2020,receita_intra_bruta,siconfi_dca_araripina_2020.json,DCA-Anexo I-C,ReceitasIntraOrcamentarias,RECEITAS (INTRA-ORÇAMENTÁRIAS) (II),Receitas Brutas Realizadas,15507480.5,Padrão
+Araripina/PE,2601102,2020,receita_exceto_intra_bruta,siconfi_dca_araripina_2020.json,DCA-Anexo I-C,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),Receitas Brutas Realizadas,198722482.31,Padrão
+Araripina/PE,2601102,2020,receita_tributaria_propria_bruta,siconfi_dca_araripina_2020.json,DCA-Anexo I-C,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",Receitas Brutas Realizadas,9688569.66,Padrão
+Araripina/PE,2601102,2020,transferencias_correntes_total_brutas,siconfi_dca_araripina_2020.json,DCA-Anexo I-C,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,Receitas Brutas Realizadas,169988298.9,Padrão
+Araripina/PE,2601102,2020,transferencias_capital_total_brutas,siconfi_dca_araripina_2020.json,DCA-Anexo I-C,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,Receitas Brutas Realizadas,3559344.76,Padrão
+Araripina/PE,2601102,2020,transferencias_intergov_correntes_proxy,siconfi_dca_araripina_2020.json,DCA-Anexo I-C,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,104959864.87,Padrão
+Araripina/PE,2601102,2020,transferencias_intergov_correntes_proxy,siconfi_dca_araripina_2020.json,DCA-Anexo I-C,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,21584270.13,Padrão
+Araripina/PE,2601102,2020,transferencias_intergov_capital_proxy,siconfi_dca_araripina_2020.json,DCA-Anexo I-C,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,3559344.76,Padrão
+Araripina/PE,2601102,2020,despesa_funcao_01,siconfi_dca_araripina_2020.json,DCA-Anexo I-E,TotalDespesas,01 - Legislativa,Despesas Empenhadas,5373990.49,Total Geral da Despesa por Função
+Araripina/PE,2601102,2020,despesa_funcao_02,siconfi_dca_araripina_2020.json,DCA-Anexo I-E,TotalDespesas,02 - Judiciária,Despesas Empenhadas,823772.92,Total Geral da Despesa por Função
+Araripina/PE,2601102,2020,despesa_funcao_04,siconfi_dca_araripina_2020.json,DCA-Anexo I-E,TotalDespesas,04 - Administração,Despesas Empenhadas,13669332.23,Total Geral da Despesa por Função
+Araripina/PE,2601102,2020,despesa_funcao_08,siconfi_dca_araripina_2020.json,DCA-Anexo I-E,TotalDespesas,08 - Assistência Social,Despesas Empenhadas,4860882.7,Total Geral da Despesa por Função
+Araripina/PE,2601102,2020,despesa_funcao_09,siconfi_dca_araripina_2020.json,DCA-Anexo I-E,TotalDespesas,09 - Previdência Social,Despesas Empenhadas,19759885.55,Total Geral da Despesa por Função
+Araripina/PE,2601102,2020,despesa_funcao_10,siconfi_dca_araripina_2020.json,DCA-Anexo I-E,TotalDespesas,10 - Saúde,Despesas Empenhadas,49867881.84,Total Geral da Despesa por Função
+Araripina/PE,2601102,2020,despesa_funcao_12,siconfi_dca_araripina_2020.json,DCA-Anexo I-E,TotalDespesas,12 - Educação,Despesas Empenhadas,53834972.27,Total Geral da Despesa por Função
+Araripina/PE,2601102,2020,despesa_funcao_13,siconfi_dca_araripina_2020.json,DCA-Anexo I-E,TotalDespesas,13 - Cultura,Despesas Empenhadas,1590605.3,Total Geral da Despesa por Função
+Araripina/PE,2601102,2020,despesa_funcao_15,siconfi_dca_araripina_2020.json,DCA-Anexo I-E,TotalDespesas,15 - Urbanismo,Despesas Empenhadas,20158015.77,Total Geral da Despesa por Função
+Araripina/PE,2601102,2020,despesa_funcao_17,siconfi_dca_araripina_2020.json,DCA-Anexo I-E,TotalDespesas,17 - Saneamento,Despesas Empenhadas,1949250.51,Total Geral da Despesa por Função
+Araripina/PE,2601102,2020,despesa_funcao_18,siconfi_dca_araripina_2020.json,DCA-Anexo I-E,TotalDespesas,18 - Gestão Ambiental,Despesas Empenhadas,951818.03,Total Geral da Despesa por Função
+Araripina/PE,2601102,2020,despesa_funcao_20,siconfi_dca_araripina_2020.json,DCA-Anexo I-E,TotalDespesas,20 - Agricultura,Despesas Empenhadas,3050935.59,Total Geral da Despesa por Função
+Araripina/PE,2601102,2020,despesa_funcao_24,siconfi_dca_araripina_2020.json,DCA-Anexo I-E,TotalDespesas,24 - Comunicações,Despesas Empenhadas,352252.34,Total Geral da Despesa por Função
+Araripina/PE,2601102,2020,despesa_funcao_26,siconfi_dca_araripina_2020.json,DCA-Anexo I-E,TotalDespesas,26 - Transporte,Despesas Empenhadas,520738.52,Total Geral da Despesa por Função
+Araripina/PE,2601102,2020,despesa_funcao_27,siconfi_dca_araripina_2020.json,DCA-Anexo I-E,TotalDespesas,27 - Desporto e Lazer,Despesas Empenhadas,294607.45,Total Geral da Despesa por Função
+Araripina/PE,2601102,2020,despesa_funcao_28,siconfi_dca_araripina_2020.json,DCA-Anexo I-E,TotalDespesas,28 - Encargos Especiais,Despesas Empenhadas,3438202.14,Total Geral da Despesa por Função
+Araripina/PE,2601102,2021,receita_total_bruta,siconfi_dca_araripina_2021.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Receitas Brutas Realizadas,233989483.43,Padrão
+Araripina/PE,2601102,2021,deducao_fundeb,siconfi_dca_araripina_2021.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Deduções - FUNDEB,15828698.36,Padrão
+Araripina/PE,2601102,2021,outras_deducoes,siconfi_dca_araripina_2021.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Outras Deduções da Receita,323515.54,Padrão
+Araripina/PE,2601102,2021,despesa_empenhada_total,siconfi_dca_araripina_2021.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,207998378.44,Padrão
+Araripina/PE,2601102,2021,despesa_liquidada_total,siconfi_dca_araripina_2021.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,205339518.69,Padrão
+Araripina/PE,2601102,2021,despesa_paga_total,siconfi_dca_araripina_2021.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,204037705.23,Padrão
+Araripina/PE,2601102,2021,despesa_empenhada_exceto_intra,siconfi_dca_araripina_2021.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Empenhadas,190611309.08,Total Geral da Despesa por Função
+Araripina/PE,2601102,2021,despesa_liquidada_exceto_intra,siconfi_dca_araripina_2021.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Liquidadas,187952449.33,Total Geral da Despesa por Função
+Araripina/PE,2601102,2021,despesa_paga_exceto_intra,siconfi_dca_araripina_2021.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Pagas,186917041.64,Total Geral da Despesa por Função
+Araripina/PE,2601102,2021,receita_intra_bruta,siconfi_dca_araripina_2021.json,DCA-Anexo I-C,ReceitasIntraOrcamentarias,RECEITAS (INTRA-ORÇAMENTÁRIAS) (II),Receitas Brutas Realizadas,17141089.85,Padrão
+Araripina/PE,2601102,2021,receita_exceto_intra_bruta,siconfi_dca_araripina_2021.json,DCA-Anexo I-C,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),Receitas Brutas Realizadas,216848393.58,Padrão
+Araripina/PE,2601102,2021,receita_tributaria_propria_bruta,siconfi_dca_araripina_2021.json,DCA-Anexo I-C,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",Receitas Brutas Realizadas,14460921.84,Padrão
+Araripina/PE,2601102,2021,transferencias_correntes_total_brutas,siconfi_dca_araripina_2021.json,DCA-Anexo I-C,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,Receitas Brutas Realizadas,183600561.15,Padrão
+Araripina/PE,2601102,2021,transferencias_capital_total_brutas,siconfi_dca_araripina_2021.json,DCA-Anexo I-C,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,Receitas Brutas Realizadas,1764560.78,Padrão
+Araripina/PE,2601102,2021,transferencias_intergov_correntes_proxy,siconfi_dca_araripina_2021.json,DCA-Anexo I-C,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,104685779.88,Padrão
+Araripina/PE,2601102,2021,transferencias_intergov_correntes_proxy,siconfi_dca_araripina_2021.json,DCA-Anexo I-C,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,24710993.93,Padrão
+Araripina/PE,2601102,2021,transferencias_intergov_capital_proxy,siconfi_dca_araripina_2021.json,DCA-Anexo I-C,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,1580260.78,Padrão
+Araripina/PE,2601102,2021,transferencias_intergov_capital_proxy,siconfi_dca_araripina_2021.json,DCA-Anexo I-C,RO2.4.2.0.00.0.0,2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,184300,Padrão
+Araripina/PE,2601102,2021,despesa_funcao_01,siconfi_dca_araripina_2021.json,DCA-Anexo I-E,TotalDespesas,01 - Legislativa,Despesas Empenhadas,5365849.19,Total Geral da Despesa por Função
+Araripina/PE,2601102,2021,despesa_funcao_02,siconfi_dca_araripina_2021.json,DCA-Anexo I-E,TotalDespesas,02 - Judiciária,Despesas Empenhadas,1130040.91,Total Geral da Despesa por Função
+Araripina/PE,2601102,2021,despesa_funcao_04,siconfi_dca_araripina_2021.json,DCA-Anexo I-E,TotalDespesas,04 - Administração,Despesas Empenhadas,15027990.11,Total Geral da Despesa por Função
+Araripina/PE,2601102,2021,despesa_funcao_08,siconfi_dca_araripina_2021.json,DCA-Anexo I-E,TotalDespesas,08 - Assistência Social,Despesas Empenhadas,3438654.31,Total Geral da Despesa por Função
+Araripina/PE,2601102,2021,despesa_funcao_09,siconfi_dca_araripina_2021.json,DCA-Anexo I-E,TotalDespesas,09 - Previdência Social,Despesas Empenhadas,21155283.16,Total Geral da Despesa por Função
+Araripina/PE,2601102,2021,despesa_funcao_10,siconfi_dca_araripina_2021.json,DCA-Anexo I-E,TotalDespesas,10 - Saúde,Despesas Empenhadas,40957252.69,Total Geral da Despesa por Função
+Araripina/PE,2601102,2021,despesa_funcao_12,siconfi_dca_araripina_2021.json,DCA-Anexo I-E,TotalDespesas,12 - Educação,Despesas Empenhadas,70368430.15,Total Geral da Despesa por Função
+Araripina/PE,2601102,2021,despesa_funcao_13,siconfi_dca_araripina_2021.json,DCA-Anexo I-E,TotalDespesas,13 - Cultura,Despesas Empenhadas,1297168.59,Total Geral da Despesa por Função
+Araripina/PE,2601102,2021,despesa_funcao_15,siconfi_dca_araripina_2021.json,DCA-Anexo I-E,TotalDespesas,15 - Urbanismo,Despesas Empenhadas,17089069.77,Total Geral da Despesa por Função
+Araripina/PE,2601102,2021,despesa_funcao_17,siconfi_dca_araripina_2021.json,DCA-Anexo I-E,TotalDespesas,17 - Saneamento,Despesas Empenhadas,2577825.96,Total Geral da Despesa por Função
+Araripina/PE,2601102,2021,despesa_funcao_18,siconfi_dca_araripina_2021.json,DCA-Anexo I-E,TotalDespesas,18 - Gestão Ambiental,Despesas Empenhadas,990565.24,Total Geral da Despesa por Função
+Araripina/PE,2601102,2021,despesa_funcao_20,siconfi_dca_araripina_2021.json,DCA-Anexo I-E,TotalDespesas,20 - Agricultura,Despesas Empenhadas,2466216.86,Total Geral da Despesa por Função
+Araripina/PE,2601102,2021,despesa_funcao_24,siconfi_dca_araripina_2021.json,DCA-Anexo I-E,TotalDespesas,24 - Comunicações,Despesas Empenhadas,270626.62,Total Geral da Despesa por Função
+Araripina/PE,2601102,2021,despesa_funcao_26,siconfi_dca_araripina_2021.json,DCA-Anexo I-E,TotalDespesas,26 - Transporte,Despesas Empenhadas,643189.34,Total Geral da Despesa por Função
+Araripina/PE,2601102,2021,despesa_funcao_27,siconfi_dca_araripina_2021.json,DCA-Anexo I-E,TotalDespesas,27 - Desporto e Lazer,Despesas Empenhadas,432928.43,Total Geral da Despesa por Função
+Araripina/PE,2601102,2021,despesa_funcao_28,siconfi_dca_araripina_2021.json,DCA-Anexo I-E,TotalDespesas,28 - Encargos Especiais,Despesas Empenhadas,7400217.75,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,receita_total_bruta,siconfi_dca_araripina_2022.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Receitas Brutas Realizadas,291124781.78,Padrão
+Araripina/PE,2601102,2022,deducao_fundeb,siconfi_dca_araripina_2022.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Deduções - FUNDEB,18837812.19,Padrão
+Araripina/PE,2601102,2022,despesa_empenhada_total,siconfi_dca_araripina_2022.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,267976817.63,Padrão
+Araripina/PE,2601102,2022,despesa_liquidada_total,siconfi_dca_araripina_2022.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,267971017.63,Padrão
+Araripina/PE,2601102,2022,despesa_paga_total,siconfi_dca_araripina_2022.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,264059316.06,Padrão
+Araripina/PE,2601102,2022,despesa_empenhada_exceto_intra,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Empenhadas,251652325.66,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_liquidada_exceto_intra,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Liquidadas,251646525.66,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_paga_exceto_intra,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Pagas,248056598.07,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,receita_intra_bruta,siconfi_dca_araripina_2022.json,DCA-Anexo I-C,ReceitasIntraOrcamentarias,RECEITAS (INTRA-ORÇAMENTÁRIAS) (II),Receitas Brutas Realizadas,16076418.18,Padrão
+Araripina/PE,2601102,2022,receita_exceto_intra_bruta,siconfi_dca_araripina_2022.json,DCA-Anexo I-C,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),Receitas Brutas Realizadas,275048363.6,Padrão
+Araripina/PE,2601102,2022,receita_tributaria_propria_bruta,siconfi_dca_araripina_2022.json,DCA-Anexo I-C,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",Receitas Brutas Realizadas,17317435.6,Padrão
+Araripina/PE,2601102,2022,transferencias_correntes_total_brutas,siconfi_dca_araripina_2022.json,DCA-Anexo I-C,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,Receitas Brutas Realizadas,235986870.97,Padrão
+Araripina/PE,2601102,2022,transferencias_capital_total_brutas,siconfi_dca_araripina_2022.json,DCA-Anexo I-C,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,Receitas Brutas Realizadas,46500.01,Padrão
+Araripina/PE,2601102,2022,transferencias_intergov_correntes_proxy,siconfi_dca_araripina_2022.json,DCA-Anexo I-C,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,147629785.55,Padrão
+Araripina/PE,2601102,2022,transferencias_intergov_correntes_proxy,siconfi_dca_araripina_2022.json,DCA-Anexo I-C,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,27960706.02,Padrão
+Araripina/PE,2601102,2022,transferencias_intergov_capital_proxy,siconfi_dca_araripina_2022.json,DCA-Anexo I-C,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,46500.01,Padrão
+Araripina/PE,2601102,2022,despesa_funcao_01,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,01 - Legislativa,Despesas Empenhadas,5876084.24,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_funcao_02,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,02 - Judiciária,Despesas Empenhadas,2970087.82,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_funcao_04,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,04 - Administração,Despesas Empenhadas,19521281.88,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_funcao_06,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,06 - Segurança Pública,Despesas Empenhadas,219.9,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_funcao_08,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,08 - Assistência Social,Despesas Empenhadas,4326555.85,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_funcao_09,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,09 - Previdência Social,Despesas Empenhadas,26890557.43,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_funcao_10,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,10 - Saúde,Despesas Empenhadas,50385404.09,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_funcao_12,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,12 - Educação,Despesas Empenhadas,98716666.79,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_funcao_13,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,13 - Cultura,Despesas Empenhadas,5596341.12,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_funcao_14,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,14 - Direitos da Cidadania,Despesas Empenhadas,341584.99,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_funcao_15,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,15 - Urbanismo,Despesas Empenhadas,22496716.62,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_funcao_17,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,17 - Saneamento,Despesas Empenhadas,1005117.79,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_funcao_18,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,18 - Gestão Ambiental,Despesas Empenhadas,1138725.7,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_funcao_20,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,20 - Agricultura,Despesas Empenhadas,5571382.45,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_funcao_24,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,24 - Comunicações,Despesas Empenhadas,547724.34,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_funcao_25,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,25 - Energia,Despesas Empenhadas,1319618.11,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_funcao_26,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,26 - Transporte,Despesas Empenhadas,911862.43,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_funcao_27,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,27 - Desporto e Lazer,Despesas Empenhadas,815002.81,Total Geral da Despesa por Função
+Araripina/PE,2601102,2022,despesa_funcao_28,siconfi_dca_araripina_2022.json,DCA-Anexo I-E,TotalDespesas,28 - Encargos Especiais,Despesas Empenhadas,3221391.3,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,receita_total_bruta,siconfi_dca_araripina_2023.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Receitas Brutas Realizadas,351842882.26,Padrão
+Araripina/PE,2601102,2023,deducao_fundeb,siconfi_dca_araripina_2023.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Deduções - FUNDEB,19247389.5,Padrão
+Araripina/PE,2601102,2023,outras_deducoes,siconfi_dca_araripina_2023.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Outras Deduções da Receita,1406366.72,Padrão
+Araripina/PE,2601102,2023,despesa_empenhada_total,siconfi_dca_araripina_2023.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,303646905.45,Padrão
+Araripina/PE,2601102,2023,despesa_liquidada_total,siconfi_dca_araripina_2023.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,303646901.45,Padrão
+Araripina/PE,2601102,2023,despesa_paga_total,siconfi_dca_araripina_2023.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,302628832.44,Padrão
+Araripina/PE,2601102,2023,despesa_empenhada_exceto_intra,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Empenhadas,279349246.37,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,despesa_liquidada_exceto_intra,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Liquidadas,279349242.37,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,despesa_paga_exceto_intra,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Pagas,278543415.28,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,receita_intra_bruta,siconfi_dca_araripina_2023.json,DCA-Anexo I-C,ReceitasIntraOrcamentarias,RECEITAS (INTRA-ORÇAMENTÁRIAS) (II),Receitas Brutas Realizadas,24306910.19,Padrão
+Araripina/PE,2601102,2023,receita_exceto_intra_bruta,siconfi_dca_araripina_2023.json,DCA-Anexo I-C,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),Receitas Brutas Realizadas,327535972.07,Padrão
+Araripina/PE,2601102,2023,receita_tributaria_propria_bruta,siconfi_dca_araripina_2023.json,DCA-Anexo I-C,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",Receitas Brutas Realizadas,23037429.83,Padrão
+Araripina/PE,2601102,2023,transferencias_correntes_total_brutas,siconfi_dca_araripina_2023.json,DCA-Anexo I-C,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,Receitas Brutas Realizadas,242880007.36,Padrão
+Araripina/PE,2601102,2023,transferencias_capital_total_brutas,siconfi_dca_araripina_2023.json,DCA-Anexo I-C,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,Receitas Brutas Realizadas,3706528.37,Padrão
+Araripina/PE,2601102,2023,transferencias_intergov_correntes_proxy,siconfi_dca_araripina_2023.json,DCA-Anexo I-C,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,153024770.6,Padrão
+Araripina/PE,2601102,2023,transferencias_intergov_correntes_proxy,siconfi_dca_araripina_2023.json,DCA-Anexo I-C,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,26597362.17,Padrão
+Araripina/PE,2601102,2023,transferencias_intergov_capital_proxy,siconfi_dca_araripina_2023.json,DCA-Anexo I-C,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,3706528.37,Padrão
+Araripina/PE,2601102,2023,despesa_funcao_01,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,01 - Legislativa,Despesas Empenhadas,7249845.36,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,despesa_funcao_02,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,02 - Judiciária,Despesas Empenhadas,2583200.16,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,despesa_funcao_04,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,04 - Administração,Despesas Empenhadas,22422242.34,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,despesa_funcao_08,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,08 - Assistência Social,Despesas Empenhadas,5682942.08,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,despesa_funcao_09,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,09 - Previdência Social,Despesas Empenhadas,28690510.96,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,despesa_funcao_10,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,10 - Saúde,Despesas Empenhadas,57487042.6,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,despesa_funcao_12,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,12 - Educação,Despesas Empenhadas,103178751.73,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,despesa_funcao_13,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,13 - Cultura,Despesas Empenhadas,9138098.34,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,despesa_funcao_14,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,14 - Direitos da Cidadania,Despesas Empenhadas,342784.87,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,despesa_funcao_15,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,15 - Urbanismo,Despesas Empenhadas,25937979.9,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,despesa_funcao_17,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,17 - Saneamento,Despesas Empenhadas,1543309.76,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,despesa_funcao_18,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,18 - Gestão Ambiental,Despesas Empenhadas,1145716.43,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,despesa_funcao_20,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,20 - Agricultura,Despesas Empenhadas,5683555.72,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,despesa_funcao_24,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,24 - Comunicações,Despesas Empenhadas,736137.82,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,despesa_funcao_25,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,25 - Energia,Despesas Empenhadas,958210.79,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,despesa_funcao_26,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,26 - Transporte,Despesas Empenhadas,1351888.61,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,despesa_funcao_27,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,27 - Desporto e Lazer,Despesas Empenhadas,925272.83,Total Geral da Despesa por Função
+Araripina/PE,2601102,2023,despesa_funcao_28,siconfi_dca_araripina_2023.json,DCA-Anexo I-E,TotalDespesas,28 - Encargos Especiais,Despesas Empenhadas,4291756.07,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,receita_total_bruta,siconfi_dca_araripina_2024.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Receitas Brutas Realizadas,406750338.2,Padrão
+Araripina/PE,2601102,2024,deducao_fundeb,siconfi_dca_araripina_2024.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Deduções - FUNDEB,23207682.45,Padrão
+Araripina/PE,2601102,2024,outras_deducoes,siconfi_dca_araripina_2024.json,DCA-Anexo I-C,TotalReceitas,TOTAL DAS RECEITAS (III) = (I + II),Outras Deduções da Receita,227714.97,Padrão
+Araripina/PE,2601102,2024,despesa_empenhada_total,siconfi_dca_araripina_2024.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Empenhadas,399934864.27,Padrão
+Araripina/PE,2601102,2024,despesa_liquidada_total,siconfi_dca_araripina_2024.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Liquidadas,399934864.27,Padrão
+Araripina/PE,2601102,2024,despesa_paga_total,siconfi_dca_araripina_2024.json,DCA-Anexo I-D,TotalDespesas,Total Geral da Despesa,Despesas Pagas,395507881.72,Padrão
+Araripina/PE,2601102,2024,despesa_empenhada_exceto_intra,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Empenhadas,368226167.64,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_liquidada_exceto_intra,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Liquidadas,368226167.64,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_paga_exceto_intra,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,Despesas Exceto Intraorçamentárias,Despesas Pagas,366069815.88,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,receita_intra_bruta,siconfi_dca_araripina_2024.json,DCA-Anexo I-C,ReceitasIntraOrcamentarias,RECEITAS (INTRA-ORÇAMENTÁRIAS) (II),Receitas Brutas Realizadas,29547787.44,Padrão
+Araripina/PE,2601102,2024,receita_exceto_intra_bruta,siconfi_dca_araripina_2024.json,DCA-Anexo I-C,ReceitasExcetoIntraOrcamentarias,RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I),Receitas Brutas Realizadas,377202550.76,Padrão
+Araripina/PE,2601102,2024,receita_tributaria_propria_bruta,siconfi_dca_araripina_2024.json,DCA-Anexo I-C,RO1.1.0.0.00.0.0,"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria",Receitas Brutas Realizadas,26108586.75,Padrão
+Araripina/PE,2601102,2024,transferencias_correntes_total_brutas,siconfi_dca_araripina_2024.json,DCA-Anexo I-C,RO1.7.0.0.00.0.0,1.7.0.0.00.0.0 - Transferências Correntes,Receitas Brutas Realizadas,298807551.15,Padrão
+Araripina/PE,2601102,2024,transferencias_capital_total_brutas,siconfi_dca_araripina_2024.json,DCA-Anexo I-C,RO2.4.0.0.00.0.0,2.4.0.0.00.0.0 - Transferências de Capital,Receitas Brutas Realizadas,2253449.01,Padrão
+Araripina/PE,2601102,2024,transferencias_intergov_correntes_proxy,siconfi_dca_araripina_2024.json,DCA-Anexo I-C,RO1.7.1.0.00.0.0,1.7.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,187534823.75,Padrão
+Araripina/PE,2601102,2024,transferencias_intergov_correntes_proxy,siconfi_dca_araripina_2024.json,DCA-Anexo I-C,RO1.7.2.0.00.0.0,1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,35539532.26,Padrão
+Araripina/PE,2601102,2024,transferencias_intergov_capital_proxy,siconfi_dca_araripina_2024.json,DCA-Anexo I-C,RO2.4.1.0.00.0.0,2.4.1.0.00.0.0 - Transferências da União e de suas Entidades,Receitas Brutas Realizadas,1822356.51,Padrão
+Araripina/PE,2601102,2024,transferencias_intergov_capital_proxy,siconfi_dca_araripina_2024.json,DCA-Anexo I-C,RO2.4.2.0.00.0.0,2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades,Receitas Brutas Realizadas,431092.5,Padrão
+Araripina/PE,2601102,2024,despesa_funcao_01,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,01 - Legislativa,Despesas Empenhadas,8454611.47,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_funcao_02,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,02 - Judiciária,Despesas Empenhadas,2689876.95,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_funcao_04,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,04 - Administração,Despesas Empenhadas,27413758.92,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_funcao_06,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,06 - Segurança Pública,Despesas Empenhadas,100000,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_funcao_08,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,08 - Assistência Social,Despesas Empenhadas,5771720.32,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_funcao_09,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,09 - Previdência Social,Despesas Empenhadas,31261448.85,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_funcao_10,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,10 - Saúde,Despesas Empenhadas,62103692.64,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_funcao_12,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,12 - Educação,Despesas Empenhadas,122875373.21,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_funcao_13,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,13 - Cultura,Despesas Empenhadas,10706252.99,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_funcao_14,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,14 - Direitos da Cidadania,Despesas Empenhadas,306217.69,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_funcao_15,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,15 - Urbanismo,Despesas Empenhadas,70276809.99,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_funcao_17,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,17 - Saneamento,Despesas Empenhadas,1883573.27,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_funcao_18,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,18 - Gestão Ambiental,Despesas Empenhadas,2927103.4,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_funcao_20,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,20 - Agricultura,Despesas Empenhadas,5536233.01,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_funcao_24,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,24 - Comunicações,Despesas Empenhadas,830721.01,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_funcao_25,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,25 - Energia,Despesas Empenhadas,2871233.6,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_funcao_26,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,26 - Transporte,Despesas Empenhadas,1070916.9,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_funcao_27,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,27 - Desporto e Lazer,Despesas Empenhadas,772847.11,Total Geral da Despesa por Função
+Araripina/PE,2601102,2024,despesa_funcao_28,siconfi_dca_araripina_2024.json,DCA-Anexo I-E,TotalDespesas,28 - Encargos Especiais,Despesas Empenhadas,10373776.31,Total Geral da Despesa por Função

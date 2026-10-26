@@ -1,0 +1,23 @@
+{
+  "municipal_rows": 20,
+  "function_rows": 256,
+  "function_years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "belgium_rows": 11,
+  "deflator": "IPCA, média anual; reais de 2024 = valor nominal × média do índice em 2024 / média do índice no ano",
+  "correlation_caution": "n=10 níveis e n=9 primeiras diferenças por município; correlações descritivas, sem inferência causal; séries temporais curtas e autocorrelação possível.",
+  "figures": [
+    "receitas_despesas_reais.png",
+    "estrutura_receitas.png",
+    "despesas_funcao_2024.png",
+    "belgica_fiscal.png"
+  ]
+}

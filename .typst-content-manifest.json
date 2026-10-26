@@ -1,0 +1,19 @@
+{
+  "task_kind": "new-document",
+  "output": "pdf",
+  "signals": [],
+  "hard_constraints": [
+    "Artigo científico em português brasileiro",
+    "Identificar matrícula 222036963, autor Miguel Fernandes dos Reis Silva, UnB, disciplina CCA0169 Turma 01 2026.2 e docente Lucas Oliveira Gomes Ferreira",
+    "Incluir referencial teórico com 80 artigos distintos de periódicos, efetivamente citados e discutidos",
+    "Apresentar resumo, palavras-chave, introdução, referencial teórico, metodologia, resultados, conclusão e referências",
+    "Comparação institucional explicitamente não equivalente entre governo geral da Bélgica e municípios brasileiros",
+    "Usar fontes oficiais e dados ausentes explícitos; não inferir causalidade",
+    "PDF produzido com Typst"
+  ],
+  "content_features": {
+    "code_blocks": 0,
+    "defined_terms": 12,
+    "portrait_images": 0
+  }
+}

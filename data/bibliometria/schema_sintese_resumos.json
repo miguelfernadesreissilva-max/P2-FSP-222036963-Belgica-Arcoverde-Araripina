@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "properties": {
+    "citation_key": {"type": "string"},
+    "doi": {"type": "string"},
+    "research_question": {"type": "string"},
+    "method_or_data": {"type": "string"},
+    "main_finding": {"type": "string"},
+    "relevance_to_review": {"type": "string"},
+    "limits_of_evidence": {"type": "string"}
+  },
+  "required": ["citation_key", "doi", "research_question", "method_or_data", "main_finding", "relevance_to_review", "limits_of_evidence"],
+  "additionalProperties": false
+}
